@@ -76,6 +76,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="fishpond/README.md"><img src="fishpond/fishpond.png" height="100"></a>
 <a href="FLAMES/README.md"><img src="FLAMES/FLAMES.png" height="100"></a>
 <a href="FRASER/README.md"><img src="FRASER/FRASER.png" height="100"></a>
+<a href="gDNAx/README.md"><img src="gDNAx/gDNAx.png" height="100"></a>
 <a href="GeneTonic/README.md"><img src="GeneTonic/GeneTonic.png" height="100"></a>
 <a href="GenomicRanges/README.md"><img src="GenomicRanges/GenomicRanges.png" height="100"></a>
 <a href="GenomicScores/README.md"><img src="GenomicScores/GenomicScores.png" height="100"></a>
