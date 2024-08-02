@@ -9,5 +9,5 @@ Creative Commons Attribution
 [CC-BY](https://creativecommons.org/licenses/by/2.0/). Feel free to share and
 adapt, but don't forget to credit the author.
 
-<img src="./BioC2024.png" height="200">
+<img src="./Bioc2024.png" height="200"> <img src="./Bioc2024-a.png" height="200"> <img src="./Bioc2024-b.png" height="200">
 
