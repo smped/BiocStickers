@@ -221,6 +221,7 @@ Stickers for some of the Bioconductor events.
 <a href="events/Bioc2023/README.md"><img src="events/Bioc2023/BioC2023-a.png" height="100"></a>
 <a href="events/EuroBioc2023/README.md"><img src="events/EuroBioc2023/EuroBioC2023.png" height="100"></a>
 <a href="events/CSAMA/2024/README.md"><img src="events/CSAMA/2024/CSAMA2024.png" height="100"></a>
+<a href="events/Bioc2024/README.md"><img src="events/Bioc2024/Bioc2024.png" height="100"></a>
 </p>
 
 ## Diversity-affirming stickers
