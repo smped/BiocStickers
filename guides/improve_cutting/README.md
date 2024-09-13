@@ -61,9 +61,10 @@ have better control of the erasing process), without removing/affecting the
 black line around the hex-sticker.
 
 As a result, the *cut border* layer of our image should now contain only a
-single line defining the border of the sticker (as shown below).
+single line defining the border of the sticker (as shown below, i.e. no line
+around the edges of the full image).
 
-![clean border](images/sticker_only_border.png)
+![clean border](images/sticker_just_border.png)
 
 What remains is that we need to export the sticker. Our sticker has however some
 area around the actual hexagon - which we want to remove. We do this by opening
