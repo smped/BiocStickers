@@ -11,9 +11,9 @@ Magdalen Bride.
   [CC-BY](https://creativecommons.org/licenses/by/2.0/). Feel free to share and
   adapt, but don't forget to credit the author.
 
-<img src="./EuroBioC2023.png" height="200">
-<img src="./EuroBioC2023-a.png" height="200">
-<img src="./EuroBioC2023-b.png" height="200">
+<img src="./EuroBioC2024.png" height="200">
+<img src="./EuroBioC2024-a.png" height="200">
+<img src="./EuroBioC2024-b.png" height="200">
 
 
 
