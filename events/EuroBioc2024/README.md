@@ -5,7 +5,7 @@
 * Sticker designer: Thomas Klammsteiner
 * The sticker features Radcliffe Camera an iconic Oxford landmark and a working
 library.  It also features punting, a quintessential Oxford pastime, near the
-Magdalen Bride.
+Magdalen Bridge.
 * License for the sticker and all drawings and pictures in this folder: Creative
   Commons Attribution
   [CC-BY](https://creativecommons.org/licenses/by/2.0/). Feel free to share and
