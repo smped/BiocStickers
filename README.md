@@ -120,6 +120,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="MsCoreUtils/README.md"><img src="MsCoreUtils/MsCoreUtils.png" height="100"></a>
 <a href="MsFeatures/README.md"><img src="MsFeatures/MsFeatures.png" height="100"></a>
 <a href="MSnbase/README.md"><img src="MSnbase/MSnbase.png" height="100"></a>
+  <a href="msmpms/README.md"><img src="mspms/mspms_logo.png" height="100"></a>
 <a href="MultiAssayExperiment/README.md"><img src="MultiAssayExperiment/MultiAssayExperiment.png" height="100"></a>
 <a href="mzR/README.md"><img src="mzR/mzR_hl.png" height="100"></a>
 <a href="NanoMethViz/README.md"><img src="NanoMethViz/NanoMethViz.png" height="100"></a>
@@ -186,7 +187,6 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="xcms/README.md"><img src="xcms/xcms_hl.png" height="100"></a>
 <a href="zinbwave/README.md"><img src="zinbwave/zinbwave.png" height="100"></a>
 <a href="zellkonverter/README.md"><img src="zellkonverter/zellkonverter.png" height="100"></a>
-<a href="msmpms/README.md"><img src="mspms/mspms_logo.png" height="100"></a>
 </p>
 
 ## Stickers for *events*
