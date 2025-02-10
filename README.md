@@ -82,6 +82,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="GenomicScores/README.md"><img src="GenomicScores/GenomicScores.png" height="100"></a>
 <a href="genomation/README.md"><img src="genomation/genomation.png" height="100"></a>
 <a href="GEOquery/README.md"><img src="GEOquery/GEOquery.png" height="100"></a>
+<a href="ggspavis/README.md"><img src="ggspavis/ggspavis.png" height="100"></a>
 <a href="ggtree/README.md"><img src="ggtree/ggtree.png" height="100"></a>
 <a href="Glimma/README.md"><img src="Glimma/Glimma.png" height="100"></a>
 <a href="GOexpress/README.md"><img src="GOexpress/GOexpress.png" height="100"></a>
@@ -164,9 +165,11 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="sSNAPPY/README.md"><img src="sSNAPPY/sSNAPPY.png" height="100"></a>
 <a href="slingshot/README.md"><img src="slingshot/slingshot.png" height="100"></a>
 <a href="SpatialExperiment/README.md"><img src="SpatialExperiment/SpatialExperiment.png" height="100"></a>
+<a href="SpatialExperimentIO/README.md"><img src="SpatialExperimentIO/SpatialExperimentIO.png" height="100"></a>
 <a href="Spectra/README.md"><img src="Spectra/Spectra.png" height="100"></a>
 <a href="Splatter/README.md"><img src="Splatter/splatter_monochrome.png" height="100"></a>
 <a href="stageR/README.md"><img src="stageR/stageR.png" height="100"></a>
+<a href="STexampleData/README.md"><img src="STexampleData/STexampleData.png" height="100"></a>
 <a href="Structstrings/README.md"><img src="Structstrings/Structstrings.png" height="100"></a>
 <a href="SummarizedExperiment/README.md"><img src="SummarizedExperiment/SummarizedExperiment.png" height="100"></a>
 <a href="SurfR/README.md"><img src="SurfR/SurfR_logo_inkscape.png" height="100"></a>
