@@ -26,6 +26,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="beadarray/README.md"><img src="beadarray/beadarray.png" height="100"></a>
 <a href="Biobase/README.md"><img src="Biobase/Biobase.png" height="100"></a>
 <a href="BiocCheck/README.md"><img src="BiocCheck/BiocCheck.png" height="100"></a>
+<a href="BiocManager/README.md"><img src="BiocManager/BiocManager.png" height="100"></a>
 <a href="BiocFileCache/README.md"><img src="BiocFileCache/BiocFileCache.png" height="100"></a>
 <a href="Bioconductor/README.md"><img src="Bioconductor/Bioconductor_original.png" height="100"></a>
 <a href="BioCor/README.md"><img src="BioCor/BioCor.png" height="100"></a>
